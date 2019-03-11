@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMVCBootApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NEHASIN
+Implementation-Vendor-Id: com.cg.mpt
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringMVCBootApp
+Created-By: Maven Integration for Eclipse
+
